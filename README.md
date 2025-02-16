@@ -19,7 +19,7 @@ I am an open-source enthusiast and maintainer. i learned a lot from the open-sou
 
 ## 🛠️ Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,expressjs,ruby,rails,react,nextjs,redux,graphql,supabase,rabbitmq,mongodb,postgresql,mysql,redis,git,gcp,aws,docker,firebase,tailwindcss,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,expressjs,python,react,nextjs,redux,graphql,supabase,rabbitmq,mongodb,postgresql,mysql,redis,git,gcp,aws,docker,firebase,tailwindcss,materialui)](https://skillicons.dev)
 
 
 ### 📊 GitHub Stats:
